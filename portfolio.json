@@ -1,0 +1,59 @@
+{
+  "meta": { "title": "RanzRyuu • Turu", "bootline": "My Website Bagus Jir" },
+  "marquee": "PENIMPA • PENGHITAM • GANTENG",
+  "hero": {
+    "kicker": "PORTFOLIO // 2026",
+    "nameTop": "RANZ", "nameBottom": "RYUU",
+    "role": "PENIMPA • PENGHITAM • GANTENG",
+    "desc": "SUKA ANIME DAN KOMIK:V",
+    "background": "https://picsum.photos/seed/anime-crimson-city/1600/900",
+    "kanji": "??",
+    "cta": [
+      { "label": "LIHAT FOTO", "href": "#projects", "solid": true },
+      { "label": "CLICK ME", "href": "#contact" }
+    ]
+  },
+  "about": {
+    "photo": "https://picsum.photos/seed/ranzryuu-avatar/520/640",
+    "paragraphs": [
+      "WATEHELLLL",
+      "JANGAN NGEB0K3P JIR"
+    ],
+    "stats": [
+      { "value": 27, "suffix": "+", "label": "TIDUR" },
+      { "value": 4, "suffix": "", "label": "MAKAM" },
+      { "value": 130, "suffix": "+", "label": "TIDUR" },
+      { "value": 12, "suffix": "", "label": "MAKAN" }
+    ],
+    "tools": ["ROBLOX","EPEP"]
+  },
+  "skills": [
+    { "name": "ANIME", "kanji": "??", "level": 92, "note": "NONTON TEROS." },
+    { "name": "KOMIK", "kanji": "??", "level": 88, "note": "BACA TEROS." }
+  ],
+  "projects": [
+    { "title": "KOSONG", "year": "2026", "tags": ["ROBLOX","KOSONG"], "desc": "WLEE", "img": "https://picsum.photos/seed/proj-kagescan/800/500", "link": "#" }
+  ],
+  "timeline": [
+    { "year": "2022", "title": "GATAU", "desc": "GATAU" },
+    { "year": "2023", "title": "GATAU", "desc": "GATAU" },
+    { "year": "2024", "title": "GATAU", "desc": "GATAU" },
+    { "year": "2025", "title": "GATAU", "desc": "GATAU" },
+    { "year": "2026", "title": "GATAU", "desc": "GATAU" }
+  ],
+  "gallery": [
+    { "img": "https://picsum.photos/seed/anime-tokyo-night/600/800", "caption": "TOKYO MALAM", "jp": "東京" },
+    { "img": "https://picsum.photos/seed/anime-crimson-blade/600/720", "caption": "PEDANG MERAH", "jp": "紅刃" },
+    { "img": "https://picsum.photos/seed/anime-shrine-silence/600/880", "caption": "KUIL SUNYI", "jp": "静寂" },
+    { "img": "https://picsum.photos/seed/anime-cyber-alley/600/760", "caption": "GANG SIBER", "jp": "路地" },
+    { "img": "https://picsum.photos/seed/anime-moonlit-ocean/600/840", "caption": "LAUT BULAN", "jp": "月夜" },
+    { "img": "https://picsum.photos/seed/anime-neon-rain/600/700", "caption": "HUJAN NEON", "jp": "雨" }
+  ],
+  "socials": [
+    { "label": "GITHUB", "url": "https://github.com/" },
+    { "label": "INSTAGRAM", "url": "https://instagram.com/" },
+    { "label": "DISCORD", "url": "#" },
+    { "label": "YOUTUBE", "url": "https://youtube.com/" }
+  ],
+  "contact": { "note": "AKU NAK TIDOR", "email": "halo@ranzryuu.dev" }
+}
