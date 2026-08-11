@@ -20,10 +20,10 @@
       "JANGAN NGEB0K3P JIR"
     ],
     "stats": [
-      { "value": 27, "suffix": "+", "label": "TIDUR" },
-      { "value": 4, "suffix": "", "label": "MAKAM" },
-      { "value": 130, "suffix": "+", "label": "TIDUR" },
-      { "value": 12, "suffix": "", "label": "MAKAN" }
+      { "value": 0, "suffix": "+", "label": "TIDUR" },
+      { "value": 0, "suffix": "", "label": "MAKAM" },
+      { "value": 0, "suffix": "+", "label": "TIDUR" },
+      { "value": 0, "suffix": "", "label": "MAKAN" }
     ],
     "tools": ["ROBLOX","EPEP"]
   },
